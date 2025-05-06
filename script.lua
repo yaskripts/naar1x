@@ -1,6 +1,6 @@
 -- Настройки Dash
 local DashSettings = {
-    DashDistance = 57,          -- Дистанция рывка
+    DashDistance = 52,          -- Дистанция рывка
     DashDuration = 0.1,         -- Длительность рывка
     ButtonSize = UDim2.new(0, 50, 0, 50), -- Квадратная кнопка 50x50
     BackButtonPosition = UDim2.new(0.9, 0, 0.85, 0), -- Позиция кнопки назад
